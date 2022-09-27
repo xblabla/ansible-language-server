@@ -137,6 +137,8 @@ For Windows users, this extension works perfectly well with extensions such as
   highlighting of Jinja template files, you'll need to install other extensions.
 - Jinja _blocks_ (inside Ansible YAML files) are not supported yet.
 
+- This sentence has a meaning.
+
 ## Credit
 
 Based on the good work done by
